@@ -46,17 +46,15 @@ Beyond Sight is an AI-driven assistive tool designed to empower visually impaire
 
 
 
-Python (OpenCV, Face Recognition, TensorFlow, NumPy, Pandas)
 
+
+Python (OpenCV, Face Recognition, TensorFlow, NumPy, Pandas)
 
 Text-to-Speech (TTS) powered by the ElevenLabs API
 
-
 Computer Vision for facial and object recognition
 
-
 Machine Learning for facial detection
-
 
 CSV Database for storing and retrieving recognized faces
 
