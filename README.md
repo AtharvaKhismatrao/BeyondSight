@@ -19,3 +19,15 @@ Text-to-Speech (TTS) powered by the ElevenLabs API
 Computer Vision for facial and object recognition
 Machine Learning for facial detection
 CSV Database for storing and retrieving recognized faces
+
+🔧 Installation Guide
+1️⃣ Clone the Repository
+git clone https://github.com/AtharvaKhismatrao/BeyondSight.git
+2️⃣ Install Dependencies
+pip install -r requirements.txt  
+3️⃣ Set Up ElevenLabs API
+
+Sign up at ElevenLabs
+Get your API key
+Open speech.py and replace "your_api_key_here" with your actual key
+
