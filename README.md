@@ -5,6 +5,7 @@ Beyond Sight is an AI-driven assistive tool designed to empower visually impaire
 🔊 Voice-Guided Navigation – Offers step-by-step audio guidance to help users move safely.
 
 🛑 Object Detection – Identifies objects in the environment and announces them audibly.
+https://github.com/AtharvaKhismatrao/BeyondSight/blob/e033520c0040144dd67b1021e11f837467239966/images/WhatsApp%20Image%202025-01-31%20at%2009.22.48_f4d204c5.jpg
 
 🧑‍🤝‍🧑 Facial Recognition – Recognizes and speaks out the names of known individuals using a CSV-based contact database.
 
@@ -31,3 +32,16 @@ Sign up at ElevenLabs
 Get your API key
 Open speech.py and replace "your_api_key_here" with your actual key
 
+📌 How It Works
+📷 The camera detects faces and objects in real time.
+🧑‍💼 If a recognized face is detected, the system announces the person’s name.
+🔍 Surrounding objects are identified and described audibly.
+🗺️ The system provides voice-based navigation assistance for smooth movement.
+
+🚀 Future Enhancements
+🌍 Multi-Language Support – Expand TTS functionality to support multiple languages.
+🖐 Gesture Recognition – Enable hands-free control using simple hand gestures.
+☁ Cloud Integration – Store user profiles and history for personalized assistance.
+
+📜 License
+This project is licensed under the MIT License – feel free to modify and use it!
