@@ -1,1 +1,2 @@
-# BeyondSight
+🌟 Beyond Sight – AI-Powered Assistive Application
+Beyond Sight is an AI-driven assistive tool designed to empower visually impaired individuals by helping them navigate their surroundings with confidence. Using real-time object detection and facial recognition, the application provides auditory feedback, allowing users to identify nearby objects and recognize familiar faces from their saved contact database.
