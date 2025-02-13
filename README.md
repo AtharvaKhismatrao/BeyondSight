@@ -1,11 +1,20 @@
 🌟 Beyond Sight – AI-Powered Assistive Application
+
+
 Beyond Sight is an AI-driven assistive tool designed to empower visually impaired individuals by helping them navigate their surroundings with confidence. Using real-time object detection and facial recognition, the application provides auditory feedback, allowing users to identify nearby objects and recognize familiar faces from their saved contact database.
 
+
+
 🚀 Key Features
+
+
+
 🔊 Voice-Guided Navigation – Offers step-by-step audio guidance to help users move safely.
 
 🛑 Object Detection – Identifies objects in the environment and announces them audibly.
-https://github.com/AtharvaKhismatrao/BeyondSight/blob/e033520c0040144dd67b1021e11f837467239966/images/WhatsApp%20Image%202025-01-31%20at%2009.22.48_f4d204c5.jpg
+
+![object](https://github.com/AtharvaKhismatrao/BeyondSight/blob/361088243f65b4a7e595f8f3eb7b73e71caffa5d/images/WhatsApp%20Image%202025-01-31%20at%2009.22.48_f4d204c5.jpg)
+
 
 🧑‍🤝‍🧑 Facial Recognition – Recognizes and speaks out the names of known individuals using a CSV-based contact database.
 
