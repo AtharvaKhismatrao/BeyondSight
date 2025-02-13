@@ -42,7 +42,13 @@ Beyond Sight is an AI-driven assistive tool designed to empower visually impaire
 
 
 
+
+
+
 🛠️ Technologies Used
+
+
+
 
 
 
@@ -62,7 +68,20 @@ CSV Database for storing and retrieving recognized faces
 
 
 
+
+
+
+
+
+
 🔧 Installation Guide
+
+
+
+
+
+
+
 
 
 1️⃣ Clone the Repository
@@ -81,7 +100,6 @@ pip install -r requirements.txt
 3️⃣ Set Up ElevenLabs API
 
 
-
 Sign up at ElevenLabs
 
 Get your API key
@@ -91,7 +109,19 @@ Open speech.py and replace "your_api_key_here" with your actual key
 
 
 
+
+
+
+
+
+
 📌 How It Works
+
+
+
+
+
+
 
 
 📷 The camera detects faces and objects in real time.
@@ -108,7 +138,21 @@ Open speech.py and replace "your_api_key_here" with your actual key
 
 
 
+
+
+
+
+
+
+
 🚀 Future Enhancements
+
+
+
+
+
+
+
 
 
 🌍 Multi-Language Support – Expand TTS functionality to support multiple languages.
@@ -121,7 +165,25 @@ Open speech.py and replace "your_api_key_here" with your actual key
 
 
 
+
+
+
+
+
+
+
+
+
+
 📜 License
+
+
+
+
+
+
+
+
 
 
 This project is licensed under the MIT License – feel free to modify and use it!
