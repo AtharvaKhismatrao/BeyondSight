@@ -100,11 +100,11 @@ pip install -r requirements.txt
 ## 3️⃣ Set Up ElevenLabs API
 
 
-Sign up at ElevenLabs
+- Sign up at ElevenLabs
 
-Get your API key
+- Get your API key
 
-Open speech.py and replace "your_api_key_here" with your actual key
+- Open speech.py and replace "your_api_key_here" with your actual key
 
 
 
@@ -124,16 +124,16 @@ Open speech.py and replace "your_api_key_here" with your actual key
 
 
 
-## 📷 The camera detects faces and objects in real time.
+- 📷 The camera detects faces and objects in real time.
 
 
-## 🧑‍💼 If a recognized face is detected, the system announces the person’s name.
+- 🧑‍💼 If a recognized face is detected, the system announces the person’s name.
 
 
-## 🔍 Surrounding objects are identified and described audibly.
+- 🔍 Surrounding objects are identified and described audibly.
 
 
-## 🗺️ The system provides voice-based navigation assistance for smooth movement.
+- 🗺️ The system provides voice-based navigation assistance for smooth movement.
 
 
 
@@ -155,13 +155,13 @@ Open speech.py and replace "your_api_key_here" with your actual key
 
 
 
-## 🌍 Multi-Language Support – Expand TTS functionality to support multiple languages.
+- 🌍 Multi-Language Support – Expand TTS functionality to support multiple languages.
 
 
-## 🖐 Gesture Recognition – Enable hands-free control using simple hand gestures.
+- 🖐 Gesture Recognition – Enable hands-free control using simple hand gestures.
 
 
-## ☁ Cloud Integration – Store user profiles and history for personalized assistance.
+- ☁ Cloud Integration – Store user profiles and history for personalized assistance.
 
 
 
