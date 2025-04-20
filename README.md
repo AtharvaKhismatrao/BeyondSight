@@ -4,7 +4,7 @@
 Beyond Sight is an AI-driven assistive tool designed to empower visually impaired individuals by helping them navigate their surroundings with confidence. Using real-time object detection and facial recognition, the application provides auditory feedback, allowing users to identify nearby objects and recognize familiar faces from their saved contact database.
 
 
-
+---
 
 
 # 🚀 Key Features
@@ -14,24 +14,24 @@ Beyond Sight is an AI-driven assistive tool designed to empower visually impaire
 ## 🔊 Voice-Guided Navigation – Offers step-by-step audio guidance to help users move safely.
 
 ![object](https://github.com/AtharvaKhismatrao/BeyondSight/blob/a6b4a061eb2976b5d8c130b56d97b28f15bc0838/images/WhatsApp%20Image%202025-02-14%20at%2000.23.21_76700fa6.jpg)
-
+---
 
 ## 🛑 Object Detection – Identifies objects in the environment and announces them audibly.
 
 ![object](https://github.com/AtharvaKhismatrao/BeyondSight/blob/361088243f65b4a7e595f8f3eb7b73e71caffa5d/images/WhatsApp%20Image%202025-01-31%20at%2009.22.48_f4d204c5.jpg)
 
-
-🧑‍🤝‍🧑 Facial Recognition – Recognizes and speaks out the names of known individuals using a CSV-based contact database.
+---
+## 🧑‍🤝‍🧑 Facial Recognition – Recognizes and speaks out the names of known individuals using a CSV-based contact database.
 
 ![object](https://github.com/AtharvaKhismatrao/BeyondSight/blob/a6b4a061eb2976b5d8c130b56d97b28f15bc0838/images/WhatsApp%20Image%202025-02-14%20at%2000.23.22_88f15a87.jpg)
 
-
+---
 ## 🗣 Audio Assistance – Converts detected text and recognized names into speech using ElevenLabs TTS API.
 
 
 ![object](https://github.com/AtharvaKhismatrao/BeyondSight/blob/89421898ff81779525aaa53930c31e9bce002301/images/WhatsApp%20Image%202025-02-14%20at%2000.23.23_86553540.jpg)
 
-
+---
 
 ## 📏 Depth Detection – Measures the distance of objects to enhance spatial awareness.
 
@@ -41,11 +41,11 @@ Beyond Sight is an AI-driven assistive tool designed to empower visually impaire
 
 
 
+---
 
 
 
-
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 
 
@@ -68,36 +68,36 @@ Beyond Sight is an AI-driven assistive tool designed to empower visually impaire
 
 
 
+---
+
+
+
+
+
+## 🔧 Installation Guide
 
 
 
 
 
 
-# 🔧 Installation Guide
 
 
 
-
-
-
-
-
-
-## 1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 
 
 git clone https://github.com/AtharvaKhismatrao/BeyondSight.git
 
 
 
-## 2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 
 
 pip install -r requirements.txt  
 
 
-## 3️⃣ Set Up ElevenLabs API
+### 3️⃣ Set Up ElevenLabs API
 
 
 - Sign up at ElevenLabs
@@ -109,13 +109,13 @@ pip install -r requirements.txt
 
 
 
+---
 
 
 
 
 
-
-# 📌 How It Works
+## 📌 How It Works
 
 
 
@@ -140,12 +140,12 @@ pip install -r requirements.txt
 
 
 
+---
 
 
 
 
-
-# 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 
 
@@ -168,14 +168,14 @@ pip install -r requirements.txt
 
 
 
+---
 
 
 
 
 
 
-
-# 📜 License
+## 📜 License
 
 
 
@@ -187,5 +187,6 @@ pip install -r requirements.txt
 
 
 - This project is licensed under the MIT License – feel free to modify and use it!
+- This project is made by Atharva Khismatrao.
 
 
